@@ -1,2 +1,2 @@
-# Deliverable20and21
-SI 339 Deliverable 20 and 21
+# hw7-2022
+Starter Code for HW7 - JavaScript basics with Video
